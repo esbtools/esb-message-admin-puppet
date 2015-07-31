@@ -1,2 +1,2 @@
-# esb-message-admin-puppet
-Puppet modules for ESB Message Admin application
+# esbmsgadmin
+Puppet module for ESB Message Admin application
